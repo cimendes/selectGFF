@@ -32,13 +32,13 @@ Outputs a tsv file.
 		-h, --help			show this help message and exit
 		-i IDS, --ids IDS 	txt file with the gene group IDs of interest, one per
 							line.
-  -g GENES, --genes GENES 	Input gene presence/absence table (comma-separated-
+		-g GENES, --genes GENES 	Input gene presence/absence table (comma-separated-
   							values) from Roary (https:/sanger-pathogens.github.io/Roary)
-  -o OUTPUT, --output OUTPUT
+		-o OUTPUT, --output OUTPUT
   							output file name
-  --version					Display version, and exit.
+		--version					Display version, and exit.
 
-by C I Mendes (cimendes@medicina.ulisboa.pt)
+	by C I Mendes (cimendes@medicina.ulisboa.pt)
 
 # Contact
 Catarina Mendes (cimendes@medicina.ulisboa.pt)
